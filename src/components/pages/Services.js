@@ -19,5 +19,5 @@ export default function Services() {
       <Cards />
       <Footer />
     </>
-  );
+  );  
 }

@@ -31,13 +31,13 @@ function Cards() {
             />
             <CardItem
               src="images/img-e.jpg"
-              text="Experience Football on Top of the Himilayan Mountains"
+              text="This look is for wedding crashers"
               label="Wedding"
               path="/appointment"
             />
             <CardItem
               src="images/img-d.jpg"
-              text="Ride through the Sahara Desert on a guided camel tour"
+              text="Casual look for the lady waiting for her Prince."
               label="Shikorina"
               path="/sign-up"
             />

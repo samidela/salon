@@ -5,9 +5,9 @@ export default function SignUp() {
   return (
     <div>
       <h1 className="sign-up">
-        Register Now to set new appointments and reschedule.
+        Register Now to book new appointments and reschedule.
       </h1>
-      <p>Call to scedule an appoitment</p>
+      <p>Call or click the link to scedule an appoitment</p>
     </div>
   );
 }

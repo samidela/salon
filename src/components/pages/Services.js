@@ -13,11 +13,11 @@ export default function Services() {
           buttonStyle="btn--outline"
           buttonSize="btn--large"
         >
-          Services Below! (Click to BOOK)
+          Services Listed Below! (Click to BOOK)
         </Button>
       </div>
       <Cards />
       <Footer />
     </>
-  );  
+  );
 }

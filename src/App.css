@@ -83,3 +83,6 @@
     display: flex;
   }
 }
+.nomad {
+  border-style: inherit;
+}

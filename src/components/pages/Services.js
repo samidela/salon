@@ -17,6 +17,7 @@ export default function Services() {
         </Button>
       </div>
       <Cards />
+      <p>We have multiples styles you can choose from. Let us know</p>
       <Footer />
     </>
   );
